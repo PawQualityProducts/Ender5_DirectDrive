@@ -116,6 +116,13 @@ Two versions are available:
     </td>
     <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step12.jpg" width="300" /></td>
   </tr>
+  <tr>
+    <td>
+      <h3>Step 13</h4>
+      <p>Re-tension the X Drive Belt then test</br></p>
+    </td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step12.jpg" width="300" /></td>
+  </tr>
 </table>
 
 
