@@ -5,7 +5,7 @@ This is a Simple Direct Drive Mount originally designed for the Creality Ender 5
 
 It was developed to:
 * Improve injection of filament into the Hot-End by mounting the Extruder Drive close to the Hot-End
-* Provide a more even balance for the Print-Head by mounting the Extruder Drive Stepper Motor to act as a counter-weight to Hot-End assembly. This was done by making use of the space between the Print-Head Assembly and Carriage Rollers
+* Provide a more even balance for the Print-Head by utilising the Extruder Drive Stepper Motor as a counter-weight to Hot-End assembly. This was done by making use of the space between the Print-Head Assembly and Carriage Rollers
 <br/>
 <br/>
 ### Disclaimer
