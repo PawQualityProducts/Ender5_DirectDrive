@@ -24,7 +24,7 @@ Two versions are available:
 3. Cable Extender ( used in Reprap 3D Printers CNC Machines):
 <a href="https://www.amazon.co.uk/gp/product/B0728J6QTG/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1">UEETEK Bipolar Stepper Motor Cable for NEMA 17</a>  
 <img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/ExtenderCable.jpg" width="200" />
-
+4. 80mm of Bowden Tube (Capricorn Tubing recommended)
 
 ## To mount onto the print-head:
 <table>
@@ -82,34 +82,27 @@ Two versions are available:
   <tr>
     <td>
       <h3>Step 8</h4>
-      <p>Measure and cut 80mm of Bowden Tube</p>
-    </td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>
-      <h3>Step 9</h4>
-      <p>Heat the Hot-End to ~190 Degrees then push the Bowden Tube into the Hot-End as far as it will go.</p>
+      <p>Heat the Hot-End to ~190 Degrees then push the 80mm length of Bowden Tube into the Hot-End as far as it will go.</p>
     </td>
     <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step09.jpg" width="300" /></td>
   </tr>
   <tr>
     <td>
-      <h3>Step 10</h4>
+      <h3>Step 9</h4>
       <p>Insert the other end of the Tube into the Extruder Drive Assembly so that the Bowden Tube connects the Hot-End and Extruder Assembly</p>
     </td>
     <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step10.jpg" width="300" /></td>
   </tr>
   <tr>
     <td>
-      <h3>Step 11</h4>
+      <h3>Step 10</h4>
       <p>Mount the Extruder Driver Stepper Motor and Extruder Drive Assembly onto the Direct Drive Mount, and complete Extruder Drive Assembly</p>
     </td>
     <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step11.jpg" width="300" /></td>
   </tr>
   <tr>
     <td>
-      <h3>Step 12</h4>
+      <h3>Step 11</h4>
       <p>Extend the Extruder drive Stepper Motor cable and connect</br>
     <i>NB: I used <a href="https://www.amazon.co.uk/gp/product/B01EV70C78/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1">Dupont Wire Male to Female Connector Cables</a> to connect the UEETEK Bipolar Stepper Motor Cable to the existing stepper motor cable so no cutting or soldering was required</i>
   </p>
@@ -118,7 +111,7 @@ Two versions are available:
   </tr>
   <tr>
     <td>
-      <h3>Step 13</h4>
+      <h3>Step 12</h4>
       <p>Re-tension the X Drive Belt then test</br></p>
     </td>
     <td>&nbsp;</td>
