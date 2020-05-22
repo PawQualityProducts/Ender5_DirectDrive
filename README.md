@@ -50,15 +50,15 @@ Two versions are available:
 <table>
   <tr>
     <td>Step 1</td>
-    <td><img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/Step01.jpg" width="300" /</td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step03.jpg" width="300" /</td>
   </tr>
   <tr>
     <td>Step 1</td>
-    <td><img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/Step02.jpg" width="300" /</td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step03.jpg" width="300" /</td>
   </tr>
   <tr>
     <td>Step 1</td>
-    <td><img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/Step03.jpg" width="300" /</td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step03.jpg" width="300" /</td>
   </tr>
   
 </table>
