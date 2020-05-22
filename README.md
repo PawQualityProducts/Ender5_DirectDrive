@@ -27,13 +27,48 @@ Two versions are available:
 
 
 ## To mount onto the print-head:
-1) Heat the Hot-End to ~190 degrees then Remove the Bowden Tube from the Hot-End</br>
-2) Allow the hot-end to cool then remove the Bowden Tube Connector from the Hot-End</br>
-3) Release the tension on the X Drive belt</br>
-4) Remove to top two rollers from the Hot-End carriage</br>
-<i>NB: I suggest you position the Hot-Bed so that the Print-Head carriage can be supported while the Direct Drive Mount is attached. It's also advisable to protect your Hot-Bed surface during the mounting process (eg. especially when attaching the drive stepper motor)</i></br> (see image for Step 1 below)</br>
-3) Insert the two roller-spacers into the holes on the Direct Drive Mount (Image Step 2 below) ensuring they are flush with the side that will make contact with the Print-Head mount</br>
-4) Hook the Direct Drive Mount onto the Hot-End carriage, aligning the roller holes (Image Step 3 below)  
+<table>
+  <tr>
+    <td>
+      <h3>Step 1</h3>
+      <p>Heat the Hot-End to ~190 degrees then Remove the Bowden Tube from the Hot-End</p>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Step 2</h3>
+      <p>Allow the hot-end to cool then remove the Bowden Tube Connector from the Hot-End</p>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Step 3</h3>
+      <p>Release the tension on the X Drive belt, then remove to top two rollers from the Hot-End carriage<br/>
+        <i>NB: It is recommended that you position the Hot-Bed so that the Print-Head carriage can be supported while the Direct Drive Mount is attached. It's also advisable to protect your Hot-Bed surface during the mounting process (eg. especially when attaching the drive stepper motor)</i>
+      </p>
+    </td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step03.jpg" width="300" /</td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Step 4</h4>
+      <p>Insert the two roller-spacers into the holes on the Direct Drive Mount (Image Step 4 below) ensuring they are flush with the side that will make contact with the Print-Head mount</p>
+    </td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step04.jpg" width="300" /</td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Step 5</h4>
+      <p>Hook the Direct Drive Mount onto the Hot-End carriage, aligning the roller holes</p>
+    </td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step05.jpg" width="300" /</td>
+  </tr>
+</table>
+
+
+4) Hook the Direct Drive Mount onto the Hot-End carriage, aligning the roller holes (Image Step 5 below)  
 5) Re-mount the Hot-End carriage, attaching the rollers  
 6) Attach the Bowden Tube connector to the Hot-End  
 7) Measure and cut 80mm of Bowden Tube. Once fully inserted into the Hot-End and the Extruder assembly, there should be a 10mm(approx) gap between the Hot-End Bowden Tube Connector and Extruder Bowden Connector (see image below)    
@@ -47,21 +82,7 @@ Two versions are available:
 10) Extend the Extruder drive Stepper Motor cable and connect <br />  
 <i>NB: I used <a href="https://www.amazon.co.uk/gp/product/B01EV70C78/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1">Dupont Wire Male to Female Connector Cables</a> to connect the UEETEK Bipolar Stepper Motor Cable to the existing stepper motor cable so no cutting or soldering was required</i><br />
 
-<table>
-  <tr>
-    <td>Step 1</td>
-    <td><img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/Step01.jpg" width="300" /</td>
-  </tr>
-  <tr>
-    <td>Step 1</td>
-    <td><img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/Step02.jpg" width="300" /</td>
-  </tr>
-  <tr>
-    <td>Step 1</td>
-    <td><img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/Step03.jpg" width="300" /</td>
-  </tr>
-  
-</table>
+
 <img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/Step01.jpg" width="300" />
 <img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/IMG_0791.jpg" width="300" />
 <img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/IMG_0797.jpg" width="300" />
