@@ -1,9 +1,17 @@
 # Ender5Plus_DirectDrive
 Creality Ender 5 Plus Direct Drive Mount
 
-Simple Direct Drive Mount for Creality Ender 5 Plus
+## Design Considerations
+This is a Simple Direct Drive Mount for originally for the Creality Ender 5+, but compatible with the Ender 5 and Ender 5 Pro
 
-## You will need
+It was developed to:
+* Improve injection of filament into the Hot-End
+* Even out the balance of the Print-Head by mounting the Extruder Drive Stepper Motor to act as a counter-weight to Hot-End assembly. This was done by making use of the space between the Print-Head Assembly and Carriage Rollers
+<br/>
+<br/>
+<i>The 3d print models, STL files and instructions contained in this repository may be used freely but at your own risk (no liability will be accepted for damage or loss as a result of the use of these any files or information contained in this repository).</b>
+
+## To Apply this modification to your printer, you will need:
 1) <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount5.stl">Direct Drive Mount STL file</a><br />
 - Build with standard settings with Full Support enabled (there's only a bit of support)   <br />
 - I've also included the [FreeCAD Model](https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount5.FCStd) <br />
