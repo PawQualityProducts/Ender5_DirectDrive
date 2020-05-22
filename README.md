@@ -1,4 +1,4 @@
-# DirectDrive Mount for Creality Ender 5, 5 Pro and 5+
+# DirectDrive Mount for Creality Ender 5+ (5 Pro and 5)
 
 ## Design Considerations
 This is a Simple Direct Drive Mount originally designed for the Creality Ender 5+, but may also be compatible with the Ender 5 and Ender 5 Pro.
