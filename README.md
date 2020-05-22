@@ -56,12 +56,18 @@ Two versions are available:
       <h3>Step 4</h4>
       <p>Insert the two roller-spacers into the holes on the Direct Drive Mount (Image Step 4 below) ensuring they are flush with the side that will make contact with the Print-Head mount</p>
     </td>
-    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step03.jpg" width="300" /</td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step04.jpg" width="300" /</td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Step 5</h4>
+      <p>Hook the Direct Drive Mount onto the Hot-End carriage, aligning the roller holes</p>
+    </td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step05.jpg" width="300" /</td>
   </tr>
 </table>
 
 
-3) Insert the two roller-spacers into the holes on the Direct Drive Mount (Image Step 4 below) ensuring they are flush with the side that will make contact with the Print-Head mount</br>
 4) Hook the Direct Drive Mount onto the Hot-End carriage, aligning the roller holes (Image Step 5 below)  
 5) Re-mount the Hot-End carriage, attaching the rollers  
 6) Attach the Bowden Tube connector to the Hot-End  
