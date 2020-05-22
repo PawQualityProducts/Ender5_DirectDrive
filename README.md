@@ -45,22 +45,22 @@ Two versions are available:
   <tr>
     <td>
       <h3>Step 3</h3>
-      <p>Release the tension on the X Drive belt</p>
+      <p>Release the tension on the X Drive belt, then remove to top two rollers from the Hot-End carriage<br/>
+        <i>NB: It is recommended that you position the Hot-Bed so that the Print-Head carriage can be supported while the Direct Drive Mount is attached. It's also advisable to protect your Hot-Bed surface during the mounting process (eg. especially when attaching the drive stepper motor)</i>
+      </p>
     </td>
     <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step03.jpg" width="300" /</td>
   </tr>
   <tr>
     <td>
       <h3>Step 4</h4>
-      <p>Remove to top two rollers from the Hot-End carriage</p>
+      <p>Insert the two roller-spacers into the holes on the Direct Drive Mount (Image Step 4 below) ensuring they are flush with the side that will make contact with the Print-Head mount</p>
     </td>
     <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step03.jpg" width="300" /</td>
   </tr>
 </table>
 
-3) </br>
-4) </br>
-<i>NB: I suggest you position the Hot-Bed so that the Print-Head carriage can be supported while the Direct Drive Mount is attached. It's also advisable to protect your Hot-Bed surface during the mounting process (eg. especially when attaching the drive stepper motor)</i></br> (see image for Step 3 below)</br>
+
 3) Insert the two roller-spacers into the holes on the Direct Drive Mount (Image Step 4 below) ensuring they are flush with the side that will make contact with the Print-Head mount</br>
 4) Hook the Direct Drive Mount onto the Hot-End carriage, aligning the roller holes (Image Step 5 below)  
 5) Re-mount the Hot-End carriage, attaching the rollers  
