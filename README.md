@@ -121,7 +121,7 @@ Two versions are available:
       <h3>Step 13</h4>
       <p>Re-tension the X Drive Belt then test</br></p>
     </td>
-    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step12.jpg" width="300" /></td>
+    <td>&nbsp;</td>
   </tr>
 </table>
 
