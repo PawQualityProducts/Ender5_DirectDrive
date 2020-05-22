@@ -31,9 +31,9 @@ Two versions are available:
 2) Allow the hot-end to cool then remove the Bowden Tube Connector from the Hot-End</br>
 3) Release the tension on the X Drive belt</br>
 4) Remove to top two rollers from the Hot-End carriage</br>
-<i>NB: I suggest you position the Hot-Bed so that the Print-Head carriage can be supported while the Direct Drive Mount is attached. It's also advisable to protect your Hot-Bed surface during the mounting process (eg. especially when attaching the drive stepper motor)</i></br> (see image for Step 1 below)</br>
-3) Insert the two roller-spacers into the holes on the Direct Drive Mount (Image Step 2 below) ensuring they are flush with the side that will make contact with the Print-Head mount</br>
-4) Hook the Direct Drive Mount onto the Hot-End carriage, aligning the roller holes (Image Step 3 below)  
+<i>NB: I suggest you position the Hot-Bed so that the Print-Head carriage can be supported while the Direct Drive Mount is attached. It's also advisable to protect your Hot-Bed surface during the mounting process (eg. especially when attaching the drive stepper motor)</i></br> (see image for Step 3 below)</br>
+3) Insert the two roller-spacers into the holes on the Direct Drive Mount (Image Step 4 below) ensuring they are flush with the side that will make contact with the Print-Head mount</br>
+4) Hook the Direct Drive Mount onto the Hot-End carriage, aligning the roller holes (Image Step 5 below)  
 5) Re-mount the Hot-End carriage, attaching the rollers  
 6) Attach the Bowden Tube connector to the Hot-End  
 7) Measure and cut 80mm of Bowden Tube. Once fully inserted into the Hot-End and the Extruder assembly, there should be a 10mm(approx) gap between the Hot-End Bowden Tube Connector and Extruder Bowden Connector (see image below)    
