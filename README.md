@@ -1,20 +1,24 @@
-# Ender5Plus_DirectDrive
-Creality Ender 5 Plus Direct Drive Mount
+# DirectDrive Mount for Creality Ender 5+, Ender 5 Pro and Ender 5
 
 ## Design Considerations
-This is a Simple Direct Drive Mount for originally for the Creality Ender 5+, but compatible with the Ender 5 and Ender 5 Pro
+This is a Simple Direct Drive Mount originally designed for the Creality Ender 5+, but may also be compatible with the Ender 5 and Ender 5 Pro.
 
 It was developed to:
-* Improve injection of filament into the Hot-End
-* Even out the balance of the Print-Head by mounting the Extruder Drive Stepper Motor to act as a counter-weight to Hot-End assembly. This was done by making use of the space between the Print-Head Assembly and Carriage Rollers
+* Improve injection of filament into the Hot-End by mounting the Extruder Drive close to the Hot-End
+* Provide a more even balance for the Print-Head by mounting the Extruder Drive Stepper Motor to act as a counter-weight to Hot-End assembly. This was done by making use of the space between the Print-Head Assembly and Carriage Rollers
 <br/>
 <br/>
-<i>The 3d print models, STL files and instructions contained in this repository may be used freely but at your own risk (no liability will be accepted for damage or loss as a result of the use of these any files or information contained in this repository).</b>
+### Disclaimer
+<i>The 3D print models, STL files, instructions etc. contained in this repository may be used freely but at your own risk. No liability will be accepted for damage or loss resulting from the use of any files or information contained in this repository.</i>
 
-## To Apply this modification to your printer, you will need:
-1) <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount5.stl">Direct Drive Mount STL file</a><br />
-- Build with standard settings with Full Support enabled (there's only a bit of support)   <br />
-- I've also included the [FreeCAD Model](https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount5.FCStd) <br />
+## To build the Direct Drive Mount you will need:
+1) The Direct Drive Mount STL files<br/>
+Two versions are available:
+- Version 5.1 which consists of the <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount5.1.stl">Mount</a> file and associated <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount5.1_Guide.stl">Filament Guide</a> file. An M3 (3mm x 20mm) bolt and nut are required to attach the Guide to the Mount.
+- Version 5.2 consists of a single <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount5.2.stl">Mount</a> file which contains both the Mount and Filament Guide (permanently attached via an integrated hinge)<br/>
+<br />
+<i>Build with standard settings with Full Support enabled (there's only a bit of support)</i><br />
+I've also included the FreeCAD Model Files (<a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount5.1.FCStd">5.1</a> and <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount5.2.FCStd">5.2</a>) <br />
 <img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/Image.png" width="300" />  
 <br />
 2) <a href="https://www.amazon.co.uk/gp/product/B07SY745CF/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1">WINSINN Ender Aluminum Dual Extrusion Drive Feed</a> 
