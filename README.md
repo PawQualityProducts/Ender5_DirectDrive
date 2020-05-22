@@ -8,7 +8,7 @@ It was developed to:
 * Provide a more even balance for the Print-Head by utilising the Extruder Drive Stepper Motor as a counter-weight to Hot-End assembly. This was done by making use of the space between the Print-Head Assembly and Carriage Rollers
 <br/>
 <br/>
-### Disclaimer
+## Disclaimer <br/>
 <i>The 3D print models, STL files, instructions etc. contained in this repository may be used freely but at your own risk. No liability will be accepted for damage or loss resulting from the use of any files or information contained in this repository.</i>
 
 ## To build the Direct Drive Mount you will need:
