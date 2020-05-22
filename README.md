@@ -11,17 +11,17 @@ It was developed to:
 <i>The 3D print models, STL files, instructions etc. contained in this repository may be used freely but at your own risk.<br/> No liability will be accepted for damage or loss resulting from the use of any files or information contained in this repository.</i>
 
 ## To build the Direct Drive Mount you will need:
-1) The Direct Drive Mount STL files<br/>
+1. The Direct Drive Mount STL files<br/>
 Two versions are available:
 - Version 5.1 which consists of the <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount5.1.stl">Mount</a> file and associated <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount5.1_Guide.stl">Filament Guide</a> file. An M3 (3mm x 20mm) bolt and nut are required to attach the Guide to the Mount.
 - Version 5.2 consists of a single <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount5.2.stl">Mount</a> file which contains both the Mount and Filament Guide (permanently attached via an integrated hinge)<br/>
 <br />
 <i>Build with standard settings with Full Support enabled (there's only a bit of support)</i><br />
 <br/>
-2) <a href="https://www.amazon.co.uk/gp/product/B07SY745CF/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1">WINSINN Ender Aluminum Dual Extrusion Drive Feed</a> 
+2. <a href="https://www.amazon.co.uk/gp/product/B07SY745CF/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1">WINSINN Ender Aluminum Dual Extrusion Drive Feed</a> 
 <img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/61NJfNqz1-L._SL1000_.jpg" width="200" />
 <br />
-3) Cable Extender ( used in Reprap 3D Printers CNC Machines):
+3. Cable Extender ( used in Reprap 3D Printers CNC Machines):
 <a href="https://www.amazon.co.uk/gp/product/B0728J6QTG/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1">UEETEK Bipolar Stepper Motor Cable for NEMA 17</a>  
 <img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/ExtenderCable.jpg" width="200" />
 
