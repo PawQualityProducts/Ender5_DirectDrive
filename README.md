@@ -49,27 +49,52 @@ Two versions are available:
         <i>NB: It is recommended that you position the Hot-Bed so that the Print-Head carriage can be supported while the Direct Drive Mount is attached. It's also advisable to protect your Hot-Bed surface during the mounting process (eg. especially when attaching the drive stepper motor)</i>
       </p>
     </td>
-    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step03.jpg" width="300" /</td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step03.jpg" width="300" /></td>
   </tr>
   <tr>
     <td>
       <h3>Step 4</h4>
       <p>Insert the two roller-spacers into the holes on the Direct Drive Mount (Image Step 4 below) ensuring they are flush with the side that will make contact with the Print-Head mount</p>
     </td>
-    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step04.jpg" width="300" /</td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step04.jpg" width="300" /></td>
   </tr>
   <tr>
     <td>
       <h3>Step 5</h4>
       <p>Hook the Direct Drive Mount onto the Hot-End carriage, aligning the roller holes</p>
     </td>
-    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step05.jpg" width="300" /</td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step05.jpg" width="300" /></td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Step 6</h4>
+      <p>Re-mount the Hot-End carriage, and attach the rollers</p>
+    </td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step06.jpg" width="300" /></td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Step 7</h4>
+      <p>Attach the Bowden Tube connector to the Hot-End</p>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Step 8</h4>
+      <p>Measure and cut 80mm of Bowden Tube</p>
+    </td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step07.jpg" width="300" /></td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Step 9</h4>
+      <p>Heat the Hot-End to ~190 Degrees then push the Bowden Tube into the Hot-End as far as it will go.</p>
+    </td>
+    <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step07.jpg" width="300" /></td>
   </tr>
 </table>
 
-
-4) Hook the Direct Drive Mount onto the Hot-End carriage, aligning the roller holes (Image Step 5 below)  
-5) Re-mount the Hot-End carriage, attaching the rollers  
 6) Attach the Bowden Tube connector to the Hot-End  
 7) Measure and cut 80mm of Bowden Tube. Once fully inserted into the Hot-End and the Extruder assembly, there should be a 10mm(approx) gap between the Hot-End Bowden Tube Connector and Extruder Bowden Connector (see image below)    
 <img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/IMG_0806.jpg" width="300" />
