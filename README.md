@@ -25,7 +25,7 @@ Two versions are available:
 <br />
 3. Cable Extender ( used in Reprap 3D Printers CNC Machines):
 <a href="https://www.amazon.co.uk/gp/product/B0728J6QTG/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1">UEETEK Bipolar Stepper Motor Cable for NEMA 17</a>  
-<img src="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/ExtenderCable.jpg" width="200" />
+<img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/ExtenderCable.jpg" width="200" />
 4. 80mm of Bowden Tube (Capricorn Tubing recommended)
 
 ## To mount onto the print-head:
