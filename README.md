@@ -132,7 +132,7 @@ A <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/Direct
 
 ## Configuration
 The Extuder E-Steps were calibrated when I installed the WINSINN Ender Dual Gear Extruder;<br />
-However (so far), no other printer, extruder or slicer configuration setting changes have been required
+However, no other printer, extruder or slicer configuration setting changes have been required.
 
 
 
