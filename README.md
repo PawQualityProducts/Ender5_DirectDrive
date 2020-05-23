@@ -15,8 +15,8 @@ It was developed to:
 ## To build the Direct Drive Mount you will need:
 1. The Direct Drive Mount STL files<br/>
 Two versions are available:
-- <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount_Ender5_Plus.stl">Ender 5+ version (with BLTouch)</a> 
-- <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount_Ender5_NoBLTouch.stl">Ender 5x version (without BLTouch)</a> 
+- <a href="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/DirectDriveMount_Ender5_Plus.stl">Ender 5+ version (with BLTouch)</a> 
+- <a href="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/DirectDriveMount_Ender5_NoBLTouch.stl">Ender 5x version (without BLTouch)</a> 
 
 A <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount_Ender5_x_Guide.stl">Filament Guide</a> is also provided. <i>NB: An M3 (3mm x 20mm) bolt and nut are required to attach the Guide to the Mount</i>
 <br />
