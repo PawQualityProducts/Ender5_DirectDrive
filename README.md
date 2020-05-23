@@ -25,7 +25,7 @@ A <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/Direct
 <br/>
 2. <a href="https://www.amazon.co.uk/gp/product/B07SY745CF/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1">WINSINN Ender Aluminum Dual Extrusion Drive Feed</a> <br/>
 <img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/61NJfNqz1-L._SL1000_.jpg" width="200" /> <br/>
-<i>NB: If you are installing the WINSINN Extruder Drive Feed assembly as part of this Mod, then I recommend you install it first, <b>Congfigured the E-Steps</b>, and ensure it's operating correctly before proceeding with the rest of the Mod</i>
+<i>NB: If you are installing the WINSINN Extruder Drive Feed assembly as part of this Mod, then I recommend you install it first, and <b>re-calibrate the E-Step settings on your printer</b>, to ensure it's operating correctly before proceeding with the rest of the Mod</i>
 <br/>
 <br/>
 3. Cable Extender ( used in Reprap 3D Printers CNC Machines): <br/>
