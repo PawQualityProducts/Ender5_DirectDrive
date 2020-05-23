@@ -15,14 +15,14 @@ It was developed to:
 ## To build the Direct Drive Mount you will need:
 1. The Direct Drive Mount STL files<br/>
 Two versions are available:
-- <a href="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/DirectDriveMount_Ender5_Plus.stl">Ender 5+ version (with BLTouch)</a> 
-- <a href="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/DirectDriveMount_Ender5_NoBLTouch.stl">Ender 5x version (without BLTouch)</a> 
+- <a href="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/DirectDriveMount_Ender5_Plus.stl">Ender 5+ version (with BLTouch)</a> <br/>
+- <a href="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/DirectDriveMount_Ender5_NoBLTouch.stl">Ender 5x version (without BLTouch)</a> <br/>
 
 A <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/DirectDriveMount_Ender5_x_Guide.stl">Filament Guide</a> is also provided. <i>NB: An M3 (3mm x 20mm) bolt and nut are required to attach the Guide to the Mount</i>
 <br />
 <i>Build with standard settings with Full Support enabled (there's only a bit of support)</i><br />
 <br/>
-2. <a href="https://www.amazon.co.uk/gp/product/B07SY745CF/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1">WINSINN Ender Aluminum Dual Extrusion Drive Feed</a> 
+2. <a href="https://www.amazon.co.uk/gp/product/B07SY745CF/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1">WINSINN Ender Aluminum Dual Extrusion Drive Feed</a> <br/>
 <img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/61NJfNqz1-L._SL1000_.jpg" width="200" />
 <br />
 3. Cable Extender ( used in Reprap 3D Printers CNC Machines):
