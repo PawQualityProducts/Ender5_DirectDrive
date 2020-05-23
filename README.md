@@ -97,6 +97,7 @@ A <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/Direct
     <td>
       <h3>Step 9</h4>
       <p>Insert the other end of the Tube into the Extruder Drive Assembly so that the Bowden Tube connects the Hot-End and Extruder Assembly</p>
+      <p><i>Note that the Extruder Drive Assembly should be mounted upside down (180 degress from it's original orientation), but should otherwise be assembled exactly as it was before. This Mod does not change the function of the Extruder Drive Assembly itself, just it's mounting location and orientation.</i></p>
     </td>
     <td><img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/Step10.jpg" width="300" /></td>
   </tr>
