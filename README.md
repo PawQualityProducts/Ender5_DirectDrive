@@ -120,7 +120,7 @@ Additionally, I used a Male-To-Male <a href="https://www.amazon.co.uk/Elegoo-120
     <td>
       <h3>Step 11</h4>
       <p>Extend the Extruder drive Stepper Motor cable and connect</br>
-    <i>NB: I used <a href="https://www.amazon.co.uk/gp/product/B01EV70C78/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1">Dupont Wire Male to Female Connector Cables</a> to connect the UEETEK Bipolar Stepper Motor Cable to the existing stepper motor cable so no cutting or soldering was required</i> <br/></br>
+    <i>NB: I used <a href="https://www.amazon.co.uk/gp/product/B01EV70C78/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1">Dupont Wire Male to Male Connector Cables</a> to connect the UEETEK Bipolar Stepper Motor Cable to the existing stepper motor cable so no cutting or soldering was required</i> <br/></br>
     <b>When extending Extruder drive Setpper Motor cable, be sure to reconnect correctly (ie. wire it as originally wired). You should NOT need to switch any wires. If your drive appears to be running in the wrong direction, then you have most-likely mounted the Extruder Drive Assembly incorrectly. The Extruder Drive Assembly should be mounted upside down (ie. 180 degrees from it's original orientation) but should otherwise be assembled in exactly the same way it was before. </b>
   </p>
     </td>
