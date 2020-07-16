@@ -31,6 +31,12 @@ A <a href="https://github.com/hainesyp/Ender5Plus_DirectDrive/blob/master/Direct
 3. Cable Extender ( used in Reprap 3D Printers CNC Machines): <br/>
 <a href="https://www.amazon.co.uk/gp/product/B0728J6QTG/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1">UEETEK Bipolar Stepper Motor Cable for NEMA 17</a>  <br/>
 <img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/ExtenderCable.jpg" width="200" /> <br/>
+<br/>
+Additionally, I used a Male-To-Male <a href="https://www.amazon.co.uk/Elegoo-120pcs-Multicolored-Breadboard-arduino-colorful/dp/B01EV70C78/ref=sxin_7_ac_d_rm?ac_md=0-0-ZHVwb250IGNvbm5lY3RvcnM%3D-ac_d_rm&cv_ct_cx=dupont+connectors&dchild=1&keywords=dupont+connectors&pd_rd_i=B01EV70C78&pd_rd_r=f2823659-b09a-47e9-97b4-100bd0d7422b&pd_rd_w=dRpYD&pd_rd_wg=Vuc46&pf_rd_p=17aec670-a34a-456d-b214-b9a882c785b0&pf_rd_r=FEM1DK97YQ3HB8MF6BSA&psc=1&qid=1594902157&sr=1-1-fe323411-17bb-433b-b2f8-c44f2e1370d4">Dupont Cable</a> to make the connection between your stepper motor cable and the extended stepper motor cable<br/>
+<img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/ExtenderCable2.jpg" width="200" /> <br/>
+
+ 
+
 4. 80mm of Bowden Tube (Capricorn Tubing recommended) <br/>
 <img src="https://github.com/PawQualityProducts/Ender5_DirectDrive/blob/master/CapricornTubing.png" width="200" />
 <br/>
